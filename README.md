@@ -1,4 +1,4 @@
-# Shit old code
+# ⛔️ Shit old code
 
 
 # Twitter Auto Refresh for you
